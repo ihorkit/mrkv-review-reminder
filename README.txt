@@ -1,10 +1,10 @@
 === Morkva Review Reminder ===
 Contributors: bandido, dpmine
-Tags: product reviews, reminder, woocommerce
+Tags: product reviews, review reminder, woocommerce
 Requires at least: 6.0
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Sure, just drop us a line at: support@morkva.co.ua
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* [new] change tags
+
+= 1.0.0 =
 * WordPress 6.7 tested
 * WooCommerce 9.4 tested
