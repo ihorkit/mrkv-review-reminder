@@ -2,9 +2,9 @@
 Contributors: bandido, dpmine
 Tags: product reviews, review reminder, woocommerce
 Requires at least: 6.0
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,10 @@ Sure, just drop us a line at: support@morkva.co.ua
 
 
 == Changelog ==
+
+= 1.0.2 =
+* WP 6.8 - compatible
+* WooCommerce 9.8 - compatible
 
 = 1.0.1 =
 * [new] change tags

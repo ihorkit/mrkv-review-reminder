@@ -3,12 +3,13 @@
  * Plugin Name: Morkva Review Reminder
  * Plugin URI: https://morkva.co.ua/product-category/plugins/
  * Description: We send simple emails to remind you of your review
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: MORKVA
  * Text Domain: mrkv-review-reminder
  * Domain Path: /i18n/
+ * Tested up to: 6.8
  * WC requires at least: 3.8
- * WC tested up to: 7.8
+ * WC tested up to: 9.8
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
