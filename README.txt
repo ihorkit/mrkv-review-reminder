@@ -4,7 +4,7 @@ Tags: product reviews, review reminder, woocommerce
 Requires at least: 6.0
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -43,6 +43,9 @@ Sure, just drop us a line at: support@morkva.co.ua
 
 
 == Changelog ==
+
+= 1.0.3 =
+* [fix] fixed order_id fatal error
 
 = 1.0.2 =
 * WP 6.8 - compatible
