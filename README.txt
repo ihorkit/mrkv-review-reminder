@@ -1,10 +1,10 @@
-=== Morkva Review Reminder ===
+=== Morkva Order Review Reminder for WooCommerce ===
 Contributors: bandido, dpmine
-Tags: product reviews, review reminder, woocommerce
+Tags: order, review, rating
 Requires at least: 6.0
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,12 +12,20 @@ An item with one review is 65% more likely to be purchased than an item with no 
 
 == Description ==
 
-* Customer first name as a shortcode
-* Email style inherited from WooCommerce email notifications
-* Reminder interval
-* Manual send
-* Send log
-* Debug log
+WooCommerce Review Reminder helps you:
+1. **Increase trust** – more reviews build social proof and confidence.
+2. **Boost sales** – products with reviews convert up to 65% better.
+3. **Save time** – set it once and let automated emails do the work.
+
+Key features:
+* 🕑 **Flexible Scheduling**  
+  Send reminders X days after order placed.
+* 👋 **Personalized Emails**  
+  Auto-insert customer name, order details and product links.
+* 🚀 **Manual & Automated Triggers**  
+  Dispatch follow-ups via schedule or instantly from the order edit screen.
+* 🐞 **Debug Mode**  
+  Enable detailed logging to diagnose email issues.
 
 
 == FAQ ==
@@ -36,13 +44,18 @@ Sure, just drop us a line at: support@morkva.co.ua
 
 == Screenshots ==
 
-1. Settings page
+1. Settings
 2. Review reminder status on All orders page
-3. Review reminder status on Order edit page
+3. Review reminder status on Order page
+4. Reminder email example
+5. How we customized the email for ourselves
 
 
 
 == Changelog ==
+
+= 1.0.4 =
+* [fix] fixed shop_order assets loading
 
 = 1.0.3 =
 * [fix] fixed order_id fatal error
