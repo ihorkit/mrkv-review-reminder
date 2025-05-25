@@ -1,4 +1,4 @@
-=== Morkva Order Review Reminder for WooCommerce ===
+=== Morkva Product Review Reminder for WooCommerce ===
 Contributors: bandido, dpmine
 Tags: order, review, rating
 Requires at least: 6.0
