@@ -6,7 +6,7 @@
  * Version: 1.0.5
  * Author: MORKVA
  * Text Domain: mrkv-review-reminder
- * Domain Path: /i18n/
+ * Domain Path: /languages
  * Tested up to: 6.8
  * WC requires at least: 3.8
  * WC tested up to: 9.8
@@ -39,3 +39,12 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
     # Setup plugin settings
     new MRKV_REVIEW_REMINDER_RUN();
 }
+
+// loading translations from /languages/
+add_action( 'init', function() {
+    load_plugin_textdomain(
+        'mrkv-review-reminder',
+        false,
+        dirname( plugin_basename(__FILE__) ) . '/languages/'
+    );
+});
