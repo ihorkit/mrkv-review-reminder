@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr ""
+
+msgid "Already sent"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Basic settings"
+msgstr ""
+
+msgid "Create a message that will be sent"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Debug Settings"
+msgstr ""
+
+msgid "E-mail"
+msgstr ""
+
+msgid "Email configurations"
+msgstr ""
+
+msgid "Email header"
+msgstr ""
+
+msgid "Email subject"
+msgstr ""
+
+msgid "Email text"
+msgstr ""
+
+msgid "Enable log to order note"
+msgstr ""
+
+msgid "Enter email..."
+msgstr ""
+
+msgid "Enter header..."
+msgstr ""
+
+msgid "Enter the email..."
+msgstr ""
+
+msgid "Enter the sender..."
+msgstr ""
+
+msgid "Enter the subject..."
+msgstr ""
+
+msgid "From WooCommerce email settings"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "MRKV Review Reminder"
+msgstr ""
+
+msgid "Morkva Review Reminder"
+msgstr ""
+
+msgid "Need help or customization?"
+msgstr ""
+
+msgid "Plain text, no html"
+msgstr ""
+
+msgid "Reminder interval, days"
+msgstr ""
+
+msgid "Remove reminder"
+msgstr ""
+
+msgid "Reply-to"
+msgstr ""
+
+msgid "Resend reminder"
+msgstr ""
+
+msgid "Review Reminder"
+msgstr ""
+
+msgid "Review recently purchased products"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Scheduled on:"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr ""
+
+msgid "Send now"
+msgstr ""
+
+msgid "Sender name"
+msgstr ""
+
+msgid "Sent"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Test Email address"
+msgstr ""
+
+msgid "Test letter"
+msgstr ""
+

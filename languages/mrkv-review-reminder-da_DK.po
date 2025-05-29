@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr "Handlinger"
+
+msgid "Already sent"
+msgstr "Allerede sendt"
+
+msgid "Basic"
+msgstr "Grundlæggende"
+
+msgid "Basic settings"
+msgstr "Grundlæggende indstillinger"
+
+msgid "Create a message that will be sent"
+msgstr "Opret en besked, der vil blive sendt"
+
+msgid "Debug"
+msgstr "Fejlfinding"
+
+msgid "Debug Settings"
+msgstr "Fejlfindingsindstillinger"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email configurations"
+msgstr "E-mail konfigurationer"
+
+msgid "Email header"
+msgstr "E-mail header"
+
+msgid "Email subject"
+msgstr "E-mail emne"
+
+msgid "Email text"
+msgstr "E-mail tekst"
+
+msgid "Enable log to order note"
+msgstr "Aktivér log til ordrenote"
+
+msgid "Enter email..."
+msgstr "Indtast e-mail..."
+
+msgid "Enter header..."
+msgstr "Indtast header..."
+
+msgid "Enter the email..."
+msgstr "Indtast e-mailen..."
+
+msgid "Enter the sender..."
+msgstr "Indtast afsenderen..."
+
+msgid "Enter the subject..."
+msgstr "Indtast emnet..."
+
+msgid "From WooCommerce email settings"
+msgstr "Fra WooCommerce e-mailindstillinger"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "MRKV Review Reminder"
+msgstr "MRKV Anmeldelsespåmindelse"
+
+msgid "Morkva Review Reminder"
+msgstr "Morkva Anmeldelsespåmindelse"
+
+msgid "Need help or customization?"
+msgstr "Brug for hjælp eller tilpasning?"
+
+msgid "Plain text, no html"
+msgstr "Almindelig tekst, ingen HTML"
+
+msgid "Reminder interval, days"
+msgstr "Påmindelsesinterval, dage"
+
+msgid "Remove reminder"
+msgstr "Fjern påmindelse"
+
+msgid "Reply-to"
+msgstr "Svar til"
+
+msgid "Resend reminder"
+msgstr "Send påmindelse igen"
+
+msgid "Review Reminder"
+msgstr "Anmeldelsespåmindelse"
+
+msgid "Review recently purchased products"
+msgstr "Anmeld nyligt købte produkter"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Scheduled on:"
+msgstr "Planlagt til:"
+
+msgid "Send"
+msgstr "Send"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Send en test-e-mail til den angivne e-mail. Produktet vil være det sidst offentliggjorte"
+
+msgid "Send now"
+msgstr "Send nu"
+
+msgid "Sender name"
+msgstr "Afsender navn"
+
+msgid "Sent"
+msgstr "Sendt"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Shortcode fornavn: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Test Email address"
+msgstr "Test e-mailadresse"
+
+msgid "Test letter"
+msgstr "Testbrev"

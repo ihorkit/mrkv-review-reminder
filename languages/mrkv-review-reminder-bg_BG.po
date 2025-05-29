@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Already sent"
+msgstr "Вече изпратено"
+
+msgid "Basic"
+msgstr "Основни"
+
+msgid "Basic settings"
+msgstr "Основни настройки"
+
+msgid "Create a message that will be sent"
+msgstr "Създайте съобщение, което ще бъде изпратено"
+
+msgid "Debug"
+msgstr "Отстраняване на грешки"
+
+msgid "Debug Settings"
+msgstr "Настройки за отстраняване на грешки"
+
+msgid "E-mail"
+msgstr "Имейл"
+
+msgid "Email configurations"
+msgstr "Имейл конфигурации"
+
+msgid "Email header"
+msgstr "Заглавка на имейл"
+
+msgid "Email subject"
+msgstr "Тема на имейл"
+
+msgid "Email text"
+msgstr "Текст на имейл"
+
+msgid "Enable log to order note"
+msgstr "Включване на дневник към бележка за поръчка"
+
+msgid "Enter email..."
+msgstr "Въведете имейл..."
+
+msgid "Enter header..."
+msgstr "Въведете заглавка..."
+
+msgid "Enter the email..."
+msgstr "Въведете имейл..."
+
+msgid "Enter the sender..."
+msgstr "Въведете подателя..."
+
+msgid "Enter the subject..."
+msgstr "Въведете темата..."
+
+msgid "From WooCommerce email settings"
+msgstr "От имейл настройките на WooCommerce"
+
+msgid "Global"
+msgstr "Глобални"
+
+msgid "MRKV Review Reminder"
+msgstr "MRKV Напомняне за преглед"
+
+msgid "Morkva Review Reminder"
+msgstr "Morkva Напомняне за преглед"
+
+msgid "Need help or customization?"
+msgstr "Нуждаете се от помощ или персонализация?"
+
+msgid "Plain text, no html"
+msgstr "Обикновен текст, без HTML"
+
+msgid "Reminder interval, days"
+msgstr "Интервал за напомняне, дни"
+
+msgid "Remove reminder"
+msgstr "Премахване на напомняне"
+
+msgid "Reply-to"
+msgstr "Отговор до"
+
+msgid "Resend reminder"
+msgstr "Изпрати напомняне отново"
+
+msgid "Review Reminder"
+msgstr "Напомняне за преглед"
+
+msgid "Review recently purchased products"
+msgstr "Прегледайте наскоро закупените продукти"
+
+msgid "Save"
+msgstr "Запазване"
+
+msgid "Scheduled on:"
+msgstr "Планирано за:"
+
+msgid "Send"
+msgstr "Изпрати"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Изпратете тестов имейл на посочения адрес. Продуктът ще бъде последният публикуван"
+
+msgid "Send now"
+msgstr "Изпрати сега"
+
+msgid "Sender name"
+msgstr "Име на подател"
+
+msgid "Sent"
+msgstr "Изпратено"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Кратък код за първо име: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Поддръжка"
+
+msgid "Test Email address"
+msgstr "Тестов имейл адрес"
+
+msgid "Test letter"
+msgstr "Тестово писмо"

@@ -3,7 +3,7 @@
  * Plugin Name: Morkva Review Reminder
  * Plugin URI: https://morkva.co.ua/product-category/plugins/
  * Description: We send simple emails to remind you of your review
- * Version: 1.0.5
+ * Version: 1.0.6
  * Author: MORKVA
  * Text Domain: mrkv-review-reminder
  * Domain Path: /languages
@@ -40,11 +40,10 @@ if (in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_
     new MRKV_REVIEW_REMINDER_RUN();
 }
 
-// loading translations from /languages/
-add_action( 'init', function() {
+add_action( 'plugins_loaded', function() {
     load_plugin_textdomain(
         'mrkv-review-reminder',
         false,
         dirname( plugin_basename(__FILE__) ) . '/languages/'
     );
-});
+}, 11);

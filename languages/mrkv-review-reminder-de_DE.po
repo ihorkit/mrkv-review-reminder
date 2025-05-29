@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Already sent"
+msgstr "Bereits gesendet"
+
+msgid "Basic"
+msgstr "Grundlagen"
+
+msgid "Basic settings"
+msgstr "Grundeinstellungen"
+
+msgid "Create a message that will be sent"
+msgstr "Eine Nachricht erstellen, die gesendet wird"
+
+msgid "Debug"
+msgstr "Debug"
+
+msgid "Debug Settings"
+msgstr "Debug-Einstellungen"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Email configurations"
+msgstr "E-Mail-Konfigurationen"
+
+msgid "Email header"
+msgstr "E-Mail-Kopfzeile"
+
+msgid "Email subject"
+msgstr "E-Mail-Betreff"
+
+msgid "Email text"
+msgstr "E-Mail-Text"
+
+msgid "Enable log to order note"
+msgstr "Protokollierung zur Bestellnotiz aktivieren"
+
+msgid "Enter email..."
+msgstr "E-Mail eingeben..."
+
+msgid "Enter header..."
+msgstr "Kopfzeile eingeben..."
+
+msgid "Enter the email..."
+msgstr "Die E-Mail eingeben..."
+
+msgid "Enter the sender..."
+msgstr "Den Absender eingeben..."
+
+msgid "Enter the subject..."
+msgstr "Den Betreff eingeben..."
+
+msgid "From WooCommerce email settings"
+msgstr "Aus den WooCommerce E-Mail-Einstellungen"
+
+msgid "Global"
+msgstr "Global"
+
+msgid "MRKV Review Reminder"
+msgstr "MRKV Bewertungs-Erinnerung"
+
+msgid "Morkva Review Reminder"
+msgstr "Morkva Bewertungs-Erinnerung"
+
+msgid "Need help or customization?"
+msgstr "Benötigen Sie Hilfe oder Anpassungen?"
+
+msgid "Plain text, no html"
+msgstr "Klartext, kein HTML"
+
+msgid "Reminder interval, days"
+msgstr "Erinnerungsintervall, Tage"
+
+msgid "Remove reminder"
+msgstr "Erinnerung entfernen"
+
+msgid "Reply-to"
+msgstr "Antworten an"
+
+msgid "Resend reminder"
+msgstr "Erinnerung erneut senden"
+
+msgid "Review Reminder"
+msgstr "Bewertungs-Erinnerung"
+
+msgid "Review recently purchased products"
+msgstr "Kürzlich gekaufte Produkte bewerten"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Scheduled on:"
+msgstr "Geplant am:"
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Eine Test-E-Mail an die angegebene E-Mail-Adresse senden. Es wird das zuletzt veröffentlichte Produkt verwendet"
+
+msgid "Send now"
+msgstr "Jetzt senden"
+
+msgid "Sender name"
+msgstr "Absendername"
+
+msgid "Sent"
+msgstr "Gesendet"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Shortcode Vorname: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Test Email address"
+msgstr "Test-E-Mail-Adresse"
+
+msgid "Test letter"
+msgstr "Testbrief"

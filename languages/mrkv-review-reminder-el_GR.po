@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr "Ενέργειες"
+
+msgid "Already sent"
+msgstr "Έχει ήδη σταλεί"
+
+msgid "Basic"
+msgstr "Βασικές"
+
+msgid "Basic settings"
+msgstr "Βασικές ρυθμίσεις"
+
+msgid "Create a message that will be sent"
+msgstr "Δημιουργήστε ένα μήνυμα που θα σταλεί"
+
+msgid "Debug"
+msgstr "Αποσφαλμάτωση"
+
+msgid "Debug Settings"
+msgstr "Ρυθμίσεις αποσφαλμάτωσης"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email configurations"
+msgstr "Διαμορφώσεις E-mail"
+
+msgid "Email header"
+msgstr "Κεφαλίδα E-mail"
+
+msgid "Email subject"
+msgstr "Θέμα E-mail"
+
+msgid "Email text"
+msgstr "Κείμενο E-mail"
+
+msgid "Enable log to order note"
+msgstr "Ενεργοποίηση καταγραφής στη σημείωση παραγγελίας"
+
+msgid "Enter email..."
+msgstr "Εισάγετε e-mail..."
+
+msgid "Enter header..."
+msgstr "Εισάγετε κεφαλίδα..."
+
+msgid "Enter the email..."
+msgstr "Εισάγετε το e-mail..."
+
+msgid "Enter the sender..."
+msgstr "Εισάγετε τον αποστολέα..."
+
+msgid "Enter the subject..."
+msgstr "Εισάγετε το θέμα..."
+
+msgid "From WooCommerce email settings"
+msgstr "Από τις ρυθμίσεις E-mail του WooCommerce"
+
+msgid "Global"
+msgstr "Καθολικές"
+
+msgid "MRKV Review Reminder"
+msgstr "Υπενθύμιση αξιολόγησης MRKV"
+
+msgid "Morkva Review Reminder"
+msgstr "Υπενθύμιση αξιολόγησης Morkva"
+
+msgid "Need help or customization?"
+msgstr "Χρειάζεστε βοήθεια ή προσαρμογή;"
+
+msgid "Plain text, no html"
+msgstr "Απλό κείμενο, χωρίς HTML"
+
+msgid "Reminder interval, days"
+msgstr "Διάστημα υπενθύμισης, ημέρες"
+
+msgid "Remove reminder"
+msgstr "Κατάργηση υπενθύμισης"
+
+msgid "Reply-to"
+msgstr "Απάντηση σε"
+
+msgid "Resend reminder"
+msgstr "Επαναποστολή υπενθύμισης"
+
+msgid "Review Reminder"
+msgstr "Υπενθύμιση αξιολόγησης"
+
+msgid "Review recently purchased products"
+msgstr "Αξιολογήστε τα πρόσφατα αγορασμένα προϊόντα"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Scheduled on:"
+msgstr "Προγραμματισμένο για:"
+
+msgid "Send"
+msgstr "Αποστολή"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Στείλτε ένα δοκιμαστικό email στην καθορισμένη διεύθυνση. Το προϊόν θα είναι το τελευταίο δημοσιευμένο"
+
+msgid "Send now"
+msgstr "Αποστολή τώρα"
+
+msgid "Sender name"
+msgstr "Όνομα αποστολέα"
+
+msgid "Sent"
+msgstr "Στάλθηκε"
+
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Σύντομος κωδικός όνομα: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Υποστήριξη"
+
+msgid "Test Email address"
+msgstr "Διεύθυνση δοκιμαστικού Email"
+
+msgid "Test letter"
+msgstr "Δοκιμαστική επιστολή"

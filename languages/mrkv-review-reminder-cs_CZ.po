@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : ((n>=2 && n<=4) ? 1 : 2);\n"
+
+msgid "Actions"
+msgstr "Akce"
+
+msgid "Already sent"
+msgstr "Již odesláno"
+
+msgid "Basic"
+msgstr "Základní"
+
+msgid "Basic settings"
+msgstr "Základní nastavení"
+
+msgid "Create a message that will be sent"
+msgstr "Vytvořit zprávu, která bude odeslána"
+
+msgid "Debug"
+msgstr "Ladění"
+
+msgid "Debug Settings"
+msgstr "Nastavení ladění"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email configurations"
+msgstr "Konfigurace e-mailu"
+
+msgid "Email header"
+msgstr "Záhlaví e-mailu"
+
+msgid "Email subject"
+msgstr "Předmět e-mailu"
+
+msgid "Email text"
+msgstr "Text e-mailu"
+
+msgid "Enable log to order note"
+msgstr "Povolit záznam do poznámky k objednávce"
+
+msgid "Enter email..."
+msgstr "Zadejte e-mail..."
+
+msgid "Enter header..."
+msgstr "Zadejte záhlaví..."
+
+msgid "Enter the email..."
+msgstr "Zadejte e-mail..."
+
+msgid "Enter the sender..."
+msgstr "Zadejte odesílatele..."
+
+msgid "Enter the subject..."
+msgstr "Zadejte předmět..."
+
+msgid "From WooCommerce email settings"
+msgstr "Z nastavení e-mailu WooCommerce"
+
+msgid "Global"
+msgstr "Globální"
+
+msgid "MRKV Review Reminder"
+msgstr "MRKV Připomenutí recenze"
+
+msgid "Morkva Review Reminder"
+msgstr "Morkva Připomenutí recenze"
+
+msgid "Need help or customization?"
+msgstr "Potřebujete pomoc nebo úpravy?"
+
+msgid "Plain text, no html"
+msgstr "Prostý text, bez HTML"
+
+msgid "Reminder interval, days"
+msgstr "Interval připomenutí, dny"
+
+msgid "Remove reminder"
+msgstr "Odstranit připomenutí"
+
+msgid "Reply-to"
+msgstr "Odpovědět na"
+
+msgid "Resend reminder"
+msgstr "Znovu odeslat připomenutí"
+
+msgid "Review Reminder"
+msgstr "Připomenutí recenze"
+
+msgid "Review recently purchased products"
+msgstr "Zrecenzovat nedávno zakoupené produkty"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Scheduled on:"
+msgstr "Naplánováno na:"
+
+msgid "Send"
+msgstr "Odeslat"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Odeslat zkušební e-mail na zadanou adresu. Produkt bude vybrán poslední publikovaný"
+
+msgid "Send now"
+msgstr "Odeslat nyní"
+
+msgid "Sender name"
+msgstr "Jméno odesílatele"
+
+msgid "Sent"
+msgstr "Odesláno"
+
+msgid "Settings"
+msgstr "Nastavení"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Shortcode křestní jméno: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Podpora"
+
+msgid "Test Email address"
+msgstr "Testovací e-mailová adresa"
+
+msgid "Test letter"
+msgstr "Testovací dopis"

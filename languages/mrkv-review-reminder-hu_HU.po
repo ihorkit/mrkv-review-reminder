@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr "Műveletek"
+
+msgid "Already sent"
+msgstr "Már elküldve"
+
+msgid "Basic"
+msgstr "Alap"
+
+msgid "Basic settings"
+msgstr "Alapbeállítások"
+
+msgid "Create a message that will be sent"
+msgstr "Üzenet létrehozása, amely elküldésre kerül"
+
+msgid "Debug"
+msgstr "Hibakeresés"
+
+msgid "Debug Settings"
+msgstr "Hibakeresési beállítások"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Email configurations"
+msgstr "E-mail konfigurációk"
+
+msgid "Email header"
+msgstr "E-mail fejléc"
+
+msgid "Email subject"
+msgstr "E-mail tárgya"
+
+msgid "Email text"
+msgstr "E-mail szövege"
+
+msgid "Enable log to order note"
+msgstr "Napló engedélyezése a rendelési megjegyzéshez"
+
+msgid "Enter email..."
+msgstr "E-mail cím megadása..."
+
+msgid "Enter header..."
+msgstr "Fejléc megadása..."
+
+msgid "Enter the email..."
+msgstr "Adja meg az e-mail címet..."
+
+msgid "Enter the sender..."
+msgstr "Adja meg a feladót..."
+
+msgid "Enter the subject..."
+msgstr "Adja meg a tárgyat..."
+
+msgid "From WooCommerce email settings"
+msgstr "WooCommerce e-mail beállításokból"
+
+msgid "Global"
+msgstr "Globális"
+
+msgid "MRKV Review Reminder"
+msgstr "MRKV Értékelési Emlékeztető"
+
+msgid "Morkva Review Reminder"
+msgstr "Morkva Értékelési Emlékeztető"
+
+msgid "Need help or customization?"
+msgstr "Segítségre vagy testreszabásra van szüksége?"
+
+msgid "Plain text, no html"
+msgstr "Egyszerű szöveg, HTML nélkül"
+
+msgid "Reminder interval, days"
+msgstr "Emlékeztető intervallum, napok"
+
+msgid "Remove reminder"
+msgstr "Emlékeztető eltávolítása"
+
+msgid "Reply-to"
+msgstr "Válasz"
+
+msgid "Resend reminder"
+msgstr "Emlékeztető újraküldése"
+
+msgid "Review Reminder"
+msgstr "Értékelési Emlékeztető"
+
+msgid "Review recently purchased products"
+msgstr "Értékeld a nemrég vásárolt termékeket"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Scheduled on:"
+msgstr "Ütemezve:"
+
+msgid "Send"
+msgstr "Küldés"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Küldjön teszt e-mailt a megadott címre. A termék az utolsó közzétett lesz."
+
+msgid "Send now"
+msgstr "Küldés most"
+
+msgid "Sender name"
+msgstr "Feladó neve"
+
+msgid "Sent"
+msgstr "Elküldve"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Rövidkód keresztnév: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Támogatás"
+
+msgid "Test Email address"
+msgstr "Teszt e-mail cím"
+
+msgid "Test letter"
+msgstr "Tesztlevél"

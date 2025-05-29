@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Actions"
+msgstr "Toiminnot"
+
+msgid "Already sent"
+msgstr "Jo lähetetty"
+
+msgid "Basic"
+msgstr "Perus"
+
+msgid "Basic settings"
+msgstr "Perusasetukset"
+
+msgid "Create a message that will be sent"
+msgstr "Luo lähetettävä viesti"
+
+msgid "Debug"
+msgstr "Vianmääritys"
+
+msgid "Debug Settings"
+msgstr "Vianmääritysasetukset"
+
+msgid "E-mail"
+msgstr "Sähköposti"
+
+msgid "Email configurations"
+msgstr "Sähköpostiasetukset"
+
+msgid "Email header"
+msgstr "Sähköpostin otsake"
+
+msgid "Email subject"
+msgstr "Sähköpostin aihe"
+
+msgid "Email text"
+msgstr "Sähköpostin teksti"
+
+msgid "Enable log to order note"
+msgstr "Ota loki käyttöön tilausmuistiinpanoon"
+
+msgid "Enter email..."
+msgstr "Anna sähköposti..."
+
+msgid "Enter header..."
+msgstr "Anna otsake..."
+
+msgid "Enter the email..."
+msgstr "Anna sähköposti..."
+
+msgid "Enter the sender..."
+msgstr "Anna lähettäjä..."
+
+msgid "Enter the subject..."
+msgstr "Anna aihe..."
+
+msgid "From WooCommerce email settings"
+msgstr "WooCommercen sähköpostiasetuksista"
+
+msgid "Global"
+msgstr "Globaali"
+
+msgid "MRKV Review Reminder"
+msgstr "MRKV Arvostelumuistutus"
+
+msgid "Morkva Review Reminder"
+msgstr "Morkva Arvostelumuistutus"
+
+msgid "Need help or customization?"
+msgstr "Tarvitsetko apua tai räätälöintiä?"
+
+msgid "Plain text, no html"
+msgstr "Pelkkä teksti, ei HTML:ää"
+
+msgid "Reminder interval, days"
+msgstr "Muistutusväli, päivät"
+
+msgid "Remove reminder"
+msgstr "Poista muistutus"
+
+msgid "Reply-to"
+msgstr "Vastaa osoitteeseen"
+
+msgid "Resend reminder"
+msgstr "Lähetä muistutus uudelleen"
+
+msgid "Review Reminder"
+msgstr "Arvostelumuistutus"
+
+msgid "Review recently purchased products"
+msgstr "Arvioi äskettäin ostetut tuotteet"
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Scheduled on:"
+msgstr "Ajoitettu:"
+
+msgid "Send"
+msgstr "Lähetä"
+
+msgid "Send a test email to the specified email. The product will be taken the last one published"
+msgstr "Lähetä testisähköposti määritettyyn sähköpostiosoitteeseen. Tuotteena käytetään viimeksi julkaistua"
+
+msgid "Send now"
+msgstr "Lähetä nyt"
+
+msgid "Sender name"
+msgstr "Lähettäjän nimi"
+
+msgid "Sent"
+msgstr "Lähetetty"
+
+msgid "Settings"
+msgstr "Asetukset"
+
+msgid "Shortcode firstname: [mrkv-firstname]"
+msgstr "Lyhytkoodi etunimi: [mrkv-firstname]"
+
+msgid "Support"
+msgstr "Tuki"
+
+msgid "Test Email address"
+msgstr "Testisähköpostiosoite"
+
+msgid "Test letter"
+msgstr "Testikirje"
